@@ -9,7 +9,7 @@ export class MoviesService {
   }
 
   findAll() {
-    return `This action returns all movies`;
+    return `This action returns all movies vou chupar um piruzinho do jovem tito`;
   }
 
   findOne(id: number) {
