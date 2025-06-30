@@ -1,7 +1,9 @@
-import { NavBar } from "../Components/Navbar";
+import React from 'react'
 
-export default function Menu(){
-    return (
-        <NavBar />
-    )
+const Menu = () => {
+  return (
+    <div>Menu</div>
+  )
 }
+
+export default Menu
