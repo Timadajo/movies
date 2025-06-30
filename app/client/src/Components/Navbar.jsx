@@ -1,28 +1,40 @@
-import { Link } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 import "../Styles/Nav.css"
 
 export default function NavBar(){
     return (
         <nav>
-            <Link to="/" className='LeftButton'>
+            <div className='AllLeft'>
+            <NavLink to="/" className={({ isActive }) => isActive ? "nav-linkL active" : "nav-LeftButton"}>
             Menu
-            </Link>
-            <Link to="/Assistidos" className='LeftButton'>
+            </NavLink>
+            <NavLink to="/Assistidos" className={({ isActive }) => isActive ? "nav-linkL active" : "nav-LeftButton"}>
             Assistidos
-            </Link>
-            <Link to="/Catalogos" className='LeftButton'>
+            </NavLink>
+            <NavLink to="/Catalogos" className={({ isActive }) => isActive ? "nav-linkL active" : "nav-LeftButton"}>
             Catalogos
-            </Link>
-            <Link to="/Configurações" className='RightButton'>
-            Configurações
-            </Link>
-            <Link to="/MinhaLista" className='LeftButton'>
+            </NavLink>
+            <NavLink to="/MinhaLista" className={({ isActive }) => isActive ? "nav-linkL active" : "nav-LeftButton"}>
             Minha Lista
-            </Link>
-            <Link to="/Perfil" className='RightButton'>
+            </NavLink>
+            </div>
+            <div className='AllRight'>
+                <div className='dropdown'>
+                    <div>
+                        <div className='cursor'>Acessibilidade</div>
+                        <div className='dropdown-content'>
+                            <NavLink to="/Conta">Minha Conta</NavLink>
+                            <NavLink to="/Configuracoes">Configurações</NavLink>
+                            <NavLink to="/login">Sair</NavLink>
+                        </div>
+                    </div>
+                    
+                </div>
+            <NavLink to="/Perfil" className={({ isActive }) => isActive ? "nav-linkR active" : "nav-RightButton"}>
             Perfil
-            </Link>
+            </NavLink>
+            </div>
         </nav>
     )
 }
-    
+

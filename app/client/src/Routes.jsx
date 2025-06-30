@@ -5,6 +5,8 @@ import Configuracoes from "./Pages/Configuracoes.jsx";
 import MinhaLista from "./Pages/MinhaLista.jsx";
 import Perfil from "./Pages/Perfil.jsx";
 import Catalogos from "./Pages/Catalogos.jsx";
+import Login from "./Pages/Login.jsx"
+import Conta from "./Pages/Conta.jsx";
 import NavBar from "./Components/Navbar.jsx";
 
 export default function Rotas() {
@@ -18,6 +20,8 @@ export default function Rotas() {
             <Route path="/MinhaLista" element={<MinhaLista />}/>
             <Route path="/Perfil" element={<Perfil />}/>
             <Route path="/Catalogos" element={<Catalogos />}/>
+            <Route path="/Conta" element={<Conta />}/>
+            <Route path="/Login.jsx" element={<Login />}/>
         </Routes>
         </>
     );
