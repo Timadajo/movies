@@ -1,5 +1,25 @@
 .app {
-    background-color: rgb(26, 26, 26);
-    min-height: 100vh;
+  background-color: rgb(26, 26, 26);
+  min-height: 100vh;
 }
 
+.capa {
+  box-sizing: border-box; /* importante */
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 2px solid transparent; /* para reservar espaço da borda */
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+  margin: 20px 16px;
+}
+
+.capa:hover {
+  border-color: #f8f8f8;
+  transform: scale(1.1);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7),
+    0 0 10px 3px rgba(248, 248, 248, 0.7);
+  z-index: 10;
+}
