@@ -1,30 +1,68 @@
 import React from "react";
-import '../Styles/Login.css';
+import { NavLink } from "react-router-dom";
+import { useAuth } from "../Context/AuthContext.jsx";
+import { useState } from "react";
+import "../Styles/Login.css";
 
-const Login = () => {
+function LoginForm() {
+  const { login } = useAuth();
+  const [email, setEmail] = useState("");
+  const [senha, setSenha] = useState("");
+
+  function handleSubmit(e) {
+    e.preventDefault();
+
+    if (!email || !senha) return;
+
+    login(email, senha);
+
+    setEmail("");
+    setSenha("");
+  }
+
   return (
-    <div className="container">
-      <form action="">
-        <h1>Login</h1>
+    <div className="pagina-total">
+      <div className="container w-25 p-3">
+        <form onSubmit={handleSubmit}>
+          <h1>Login</h1>
 
-        <div className='mb-3'>
-          <div className="input-box">
-            <input type="email" className='form-control' placeholder="E-mail" required />
+          <div className="mb-2 ">
+            <div className="input-box">
+              <input
+                type="email"
+                className="form-control"
+                placeholder="E-mail"
+                required
+                onChange={(e) => setEmail(e.target.value)}
+              />
+            </div>
           </div>
-        </div>
 
-        <div mb-3>
-          <div className="input-box">
-            <input type="password" className='form-control' placeholder="Senha" required/>
+          <div className="mb-2 h-25">
+            <div className="input-box">
+              <input
+                type="password"
+                className="form-control"
+                placeholder="Senha"
+                required
+                onChange={(e) => setSenha(e.target.value)}
+              />
+            </div>
           </div>
-        </div>
 
-          <button type="submit" className='btn btn-primary' >Entrar</button>
-      </form>
+          <div>
+            <NavLink to="/Cadastrar" className="Cadastro">
+              Não tem uma conta? Cadastre-se!
+            </NavLink>
+          </div>
 
-      
+          <button type="submit" className="btn btn-secondary d-block mx-auto">
+            Entrar
+          </button>
+        </form>
+      </div>
     </div>
   );
-};
+}
 
-export default Login;
+export default LoginForm;

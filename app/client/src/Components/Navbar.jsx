@@ -1,8 +1,18 @@
 import { NavLink } from "react-router-dom";
 import "../Styles/Nav.css";
 import engrenagem from "../../public/images/engrenagem.png";
+import { useAuth } from "../Context/AuthContext.jsx";
 
 export default function NavBar() {
+  const { isLoggedIn } = useAuth();
+
+  function handleClick() {
+    if (isLoggedIn) {
+      logout();
+    } else {
+    }
+  }
+
   return (
     <nav>
       <div className="AllLeft">
@@ -36,30 +46,30 @@ export default function NavBar() {
             isActive ? "nav-linkL active" : "nav-LeftButton"
           }
         >
-          Minha Lista
+          {isLoggedIn ? "Minha Lista" : "Lista"}
         </NavLink>
       </div>
       <div className="AllRight">
         <div className="dropdown">
           <div>
             <div className="cursor">
-              <img src={engrenagem} className="engrenagem" alt="" />
+              <img
+                src={engrenagem}
+                className="engrenagem"
+                alt="Configurações"
+              />
             </div>
             <div className="dropdown-content">
-              <NavLink to="/Conta">Minha Conta</NavLink>
+              <NavLink to="/Conta">
+                {isLoggedIn ? "Minha Conta" : "Conta"}
+              </NavLink>
               <NavLink to="/Configuracoes">Configurações</NavLink>
-              <NavLink to="/login">Sair</NavLink>
+              <NavLink to="/login" onClick={handleClick}>
+                {isLoggedIn ? "Sair" : "Entrar"}
+              </NavLink>
             </div>
           </div>
         </div>
-        <NavLink
-          to="/Perfil"
-          className={({ isActive }) =>
-            isActive ? "nav-linkR active" : "nav-RightButton"
-          }
-        >
-          Perfil
-        </NavLink>
       </div>
     </nav>
   );

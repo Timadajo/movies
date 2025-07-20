@@ -1,6 +1,10 @@
 import React from "react";
-import "../Styles/Nav.css";
+import "../Styles/App.css";
 
 export default function CapaFilme({ imagem }) {
-  return <img src={imagem} className="capa" alt="Capa do filme" />;
+  return (
+    <div className="moldura">
+      <img src={imagem} alt="Capa do filme" className="capa" />
+    </div>
+  );
 }

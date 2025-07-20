@@ -1,0 +1,30 @@
+.container {
+  background-color: grey;
+  height: auto;
+  border-radius: 10px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  padding: 15px;
+}
+
+.pagina-total {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+input {
+  width: 100px;
+}
+
+.Cadastro {
+  color: rgb(199, 199, 199);
+  text-decoration: none;
+  font-size: 90%;
+}
