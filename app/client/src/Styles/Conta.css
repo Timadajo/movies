@@ -1,0 +1,32 @@
+.Conta {
+  color: white;
+  margin-left: 5%;
+  padding-top: 3%;
+  font-size: 250%;
+}
+
+.foto {
+  color: white;
+  margin-left: 5%;
+  padding-top: 3%;
+  font-size: 140%;
+}
+
+.Usuario {
+  color: white;
+  padding-top: 3%;
+  font-size: 120%;
+  margin-left: 5%;
+}
+
+.nav {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  transition: 0.2s;
+}
+
+.nav:hover {
+  opacity: 0.8;
+  transition: 0.2s;
+}

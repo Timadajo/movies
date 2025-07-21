@@ -8,6 +8,12 @@ function LoginForm() {
   const { login } = useAuth();
   const [email, setEmail] = useState("");
   const [senha, setSenha] = useState("");
+  const [showPassword, setShowPassword] = useState(false);
+  const [password, setPassword] = useState("");
+
+  const togglePasswordVisibility = () => {
+    setShowPassword((prev) => !prev);
+  };
 
   function handleSubmit(e) {
     e.preventDefault();
