@@ -1,12 +1,11 @@
 import React from "react";
-import CapaFilme from "../Components/Moldura";
-import foto_filme from "../../public/images/foto_filme.jpg";
+
+import "../Styles/Menu.css";
 
 const Menu = () => {
   return (
     <div>
-      <h2>Menu</h2>
-      <CapaFilme imagem={foto_filme} />
+      <h1 className="Title">Menu</h1>
     </div>
   );
 };

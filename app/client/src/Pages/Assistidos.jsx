@@ -1,9 +1,18 @@
-import React from 'react'
+import React from "react";
+import { useAuth } from "../Context/AuthContext.jsx";
+import "../Styles/Assistidos.css";
 
-const Assistidos = () => {
+function Assistidos() {
+  const { isLoggedIn } = useAuth();
   return (
-    <div>Assistidos</div>
-  )
+    <>
+      <h1 className="title">
+        {isLoggedIn
+          ? "Seus filmes assistidos"
+          : "Logue para saber ver seus filmes assistidos"}
+      </h1>
+    </>
+  );
 }
 
-export default Assistidos
+export default Assistidos;

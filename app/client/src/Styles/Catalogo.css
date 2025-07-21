@@ -1,0 +1,12 @@
+.Catalogo {
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+.Molduras {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 200px;
+}

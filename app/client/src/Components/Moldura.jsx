@@ -1,5 +1,5 @@
 import React from "react";
-import "../Styles/App.css";
+import "../Styles/Moldura.css";
 
 export default function CapaFilme({ imagem }) {
   return (

@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
+import "../Styles/Lista.css";
+import { useAuth } from "../Context/AuthContext.jsx";
 
-const MinhaLista = () => {
+function MinhaLista() {
+  const { isLoggedIn } = useAuth();
+
   return (
-    <div>MinhaLista</div>
-  )
+    <>
+      <h1 className="titulo">{isLoggedIn ? "Minha Lista" : "Lista"}</h1>
+    </>
+  );
 }
-
-export default MinhaLista
+export default MinhaLista;

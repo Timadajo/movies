@@ -50,23 +50,23 @@ export default function NavBar() {
         </NavLink>
       </div>
       <div className="AllRight">
-        <div className="dropdown">
-          <div>
-            <div className="cursor">
+        <div className="cursor">
+          <div className="dropdown">
+            <div>
               <img
                 src={engrenagem}
                 className="engrenagem"
                 alt="Configurações"
               />
-            </div>
-            <div className="dropdown-content">
-              <NavLink to="/Conta">
-                {isLoggedIn ? "Minha Conta" : "Conta"}
-              </NavLink>
-              <NavLink to="/Configuracoes">Configurações</NavLink>
-              <NavLink to="/login" onClick={handleClick}>
-                {isLoggedIn ? "Sair" : "Entrar"}
-              </NavLink>
+              <div className="dropdown-content">
+                <NavLink to="/Conta">
+                  {isLoggedIn ? "Minha Conta" : "Conta"}
+                </NavLink>
+                <NavLink to="/Configuracoes">Configurações</NavLink>
+                <NavLink to="/login" onClick={handleClick}>
+                  {isLoggedIn ? "Sair" : "Entrar"}
+                </NavLink>
+              </div>
             </div>
           </div>
         </div>
