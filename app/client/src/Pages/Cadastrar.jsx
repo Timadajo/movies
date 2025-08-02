@@ -4,7 +4,8 @@ import "../Styles/Cadastrar.css";
 const Cadastrar = () => {
   return (
     <div className="pagina-total">
-      <form className="container w-75 p-3 row g-3">
+      <form className="containerCadastrar w-75 p-3 row g-3">
+        {" "}
         <h1>Cadastro</h1>
         <div className="col-md-6">
           <label for="inputEmail4" className="form-label">

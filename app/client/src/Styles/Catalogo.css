@@ -10,3 +10,8 @@
   flex-wrap: wrap;
   padding-top: 200px;
 }
+
+.Cat {
+  color: rgb(255, 255, 255);
+  opacity: 80%;
+}

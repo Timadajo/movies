@@ -28,7 +28,7 @@ function LoginForm() {
 
   return (
     <div className="pagina-total">
-      <div className="container w-25 p-3">
+      <div className="containerCadastrar w-25 p-3">
         <form onSubmit={handleSubmit}>
           <h1 className="title">Login</h1>
 

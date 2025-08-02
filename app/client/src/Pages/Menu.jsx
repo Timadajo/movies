@@ -1,6 +1,8 @@
 import React from "react";
-
-import "../Styles/Menu.css";
+import CapaFilme from "../Components/Moldura";
+import foto_filme from "../../public/images/foto_filme.jpg";
+import { Navigate, useNavigate } from "react-router-dom";
+import CarrosselGenero from "../Components/CarrosselGenero";
 
 const Menu = () => {
   return (

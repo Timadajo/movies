@@ -18,23 +18,42 @@ import vitoria from "../../public/images/vitoria.jpeg";
 function Catalogos() {
   return (
     <>
-      <h1 className="Catalogo">Catálogo de filmes</h1>
-      <div className="Molduras">
-        <CapaFilme imagem={superman} />
-        <CapaFilme imagem={quarteto} />
-        <CapaFilme imagem={foto_filme} />
-        <CapaFilme imagem={Auto} />
-        <CapaFilme imagem={dragao} />
-        <CapaFilme imagem={pecadores} />
-        <CapaFilme imagem={f1} />
-        <CapaFilme imagem={mosferatu} />
-        <CapaFilme imagem={comH} />
-        <CapaFilme imagem={fezontem} />
-        <CapaFilme imagem={smurfs} />
-        <CapaFilme imagem={stich} />
-        <CapaFilme imagem={vitoria} />
+      <h1 className="Cat">Catálogo de Filmes</h1>;<div></div>
+      <div class="btn-group">
+        <button
+          type="button"
+          class="btn btn-danger dropdown-toggle"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+        >
+          Danger
+        </button>
+        <ul class="dropdown-menu">
+          <li>
+            <a class="dropdown-item" href="#">
+              Action
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item" href="#">
+              Another action
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item" href="#">
+              Something else here
+            </a>
+          </li>
+          <li>
+            <hr class="dropdown-divider" />
+          </li>
+          <li>
+            <a class="dropdown-item" href="#">
+              Separated link
+            </a>
+          </li>
+        </ul>
       </div>
     </>
   );
 }
-export default Catalogos;

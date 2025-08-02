@@ -1,13 +1,13 @@
-import {Route, Routes} from "react-router-dom";
-import Rotas from "./Routes.jsx"
-import "./Styles/App.css"
+import { Route, Routes } from "react-router-dom";
+import Rotas from "./Routes.jsx";
+import "./Styles/App.css";
 
-function App() {  
+function App() {
   return (
-   <div className="app">
-    < Rotas />
-   </div>
-  )
+    <div className="app">
+      <Rotas />
+    </div>
+  );
 }
 
-export default App
+export default App;
