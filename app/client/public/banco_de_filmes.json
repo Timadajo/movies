@@ -1,0 +1,3008 @@
+[
+    {
+      "id": 1,
+      "titulo": "Filme 1",
+      "genero": "Ação",
+      "duracao_min": 163,
+      "ano_lancamento": 1991,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 1, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+1"
+    },
+    {
+      "id": 2,
+      "titulo": "Filme 2",
+      "genero": "Ação",
+      "duracao_min": 170,
+      "ano_lancamento": 2025,
+      "plataformas": [
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 2, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+2"
+    },
+    {
+      "id": 3,
+      "titulo": "Filme 3",
+      "genero": "Terror",
+      "duracao_min": 82,
+      "ano_lancamento": 1993,
+      "plataformas": [
+        "Netflix",
+        "Paramount+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 3, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+3"
+    },
+    {
+      "id": 4,
+      "titulo": "Filme 4",
+      "genero": "Ação",
+      "duracao_min": 159,
+      "ano_lancamento": 1984,
+      "plataformas": [
+        "Apple TV+",
+        "Disney+",
+        "Paramount+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 4, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+4"
+    },
+    {
+      "id": 5,
+      "titulo": "Filme 5",
+      "genero": "Terror",
+      "duracao_min": 177,
+      "ano_lancamento": 2002,
+      "plataformas": [
+        "Amazon Prime",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 5, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+5"
+    },
+    {
+      "id": 6,
+      "titulo": "Filme 6",
+      "genero": "Terror",
+      "duracao_min": 83,
+      "ano_lancamento": 1993,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 6, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+6"
+    },
+    {
+      "id": 7,
+      "titulo": "Filme 7",
+      "genero": "Ação",
+      "duracao_min": 132,
+      "ano_lancamento": 1995,
+      "plataformas": [
+        "Paramount+",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 7, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+7"
+    },
+    {
+      "id": 8,
+      "titulo": "Filme 8",
+      "genero": "Drama",
+      "duracao_min": 82,
+      "ano_lancamento": 2018,
+      "plataformas": [
+        "Apple TV+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 8, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+8"
+    },
+    {
+      "id": 9,
+      "titulo": "Filme 9",
+      "genero": "Romance",
+      "duracao_min": 93,
+      "ano_lancamento": 1990,
+      "plataformas": [
+        "Netflix",
+        "Paramount+",
+        "Disney+"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 9, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+9"
+    },
+    {
+      "id": 10,
+      "titulo": "Filme 10",
+      "genero": "Romance",
+      "duracao_min": 139,
+      "ano_lancamento": 1997,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 10, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+10"
+    },
+    {
+      "id": 11,
+      "titulo": "Filme 11",
+      "genero": "Terror",
+      "duracao_min": 170,
+      "ano_lancamento": 2020,
+      "plataformas": [
+        "Disney+",
+        "Apple TV+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 11, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+11"
+    },
+    {
+      "id": 12,
+      "titulo": "Filme 12",
+      "genero": "Ficção Científica",
+      "duracao_min": 88,
+      "ano_lancamento": 2004,
+      "plataformas": [
+        "Amazon Prime",
+        "Disney+",
+        "HBO Max"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 12, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+12"
+    },
+    {
+      "id": 13,
+      "titulo": "Filme 13",
+      "genero": "Terror",
+      "duracao_min": 155,
+      "ano_lancamento": 1981,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 13, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+13"
+    },
+    {
+      "id": 14,
+      "titulo": "Filme 14",
+      "genero": "Documentário",
+      "duracao_min": 140,
+      "ano_lancamento": 1994,
+      "plataformas": [
+        "Netflix",
+        "HBO Max",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 14, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+14"
+    },
+    {
+      "id": 15,
+      "titulo": "Filme 15",
+      "genero": "Terror",
+      "duracao_min": 154,
+      "ano_lancamento": 2015,
+      "plataformas": [
+        "HBO Max",
+        "Paramount+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 15, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+15"
+    },
+    {
+      "id": 16,
+      "titulo": "Filme 16",
+      "genero": "Ação",
+      "duracao_min": 143,
+      "ano_lancamento": 2009,
+      "plataformas": [
+        "Amazon Prime",
+        "Paramount+",
+        "HBO Max"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 16, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+16"
+    },
+    {
+      "id": 17,
+      "titulo": "Filme 17",
+      "genero": "Ficção Científica",
+      "duracao_min": 119,
+      "ano_lancamento": 2010,
+      "plataformas": [
+        "Paramount+",
+        "Netflix",
+        "HBO Max"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 17, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+17"
+    },
+    {
+      "id": 18,
+      "titulo": "Filme 18",
+      "genero": "Documentário",
+      "duracao_min": 101,
+      "ano_lancamento": 2014,
+      "plataformas": [
+        "Disney+"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 18, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+18"
+    },
+    {
+      "id": 19,
+      "titulo": "Filme 19",
+      "genero": "Documentário",
+      "duracao_min": 149,
+      "ano_lancamento": 2016,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 19, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+19"
+    },
+    {
+      "id": 20,
+      "titulo": "Filme 20",
+      "genero": "Romance",
+      "duracao_min": 109,
+      "ano_lancamento": 1997,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 20, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+20"
+    },
+    {
+      "id": 21,
+      "titulo": "Filme 21",
+      "genero": "Ação",
+      "duracao_min": 127,
+      "ano_lancamento": 2014,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 21, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+21"
+    },
+    {
+      "id": 22,
+      "titulo": "Filme 22",
+      "genero": "Terror",
+      "duracao_min": 168,
+      "ano_lancamento": 1994,
+      "plataformas": [
+        "Apple TV+",
+        "Paramount+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 22, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+22"
+    },
+    {
+      "id": 23,
+      "titulo": "Filme 23",
+      "genero": "Comédia",
+      "duracao_min": 133,
+      "ano_lancamento": 2016,
+      "plataformas": [
+        "Amazon Prime",
+        "Paramount+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 23, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+23"
+    },
+    {
+      "id": 24,
+      "titulo": "Filme 24",
+      "genero": "Terror",
+      "duracao_min": 95,
+      "ano_lancamento": 2009,
+      "plataformas": [
+        "HBO Max"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 24, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+24"
+    },
+    {
+      "id": 25,
+      "titulo": "Filme 25",
+      "genero": "Comédia",
+      "duracao_min": 124,
+      "ano_lancamento": 2003,
+      "plataformas": [
+        "HBO Max",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 25, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+25"
+    },
+    {
+      "id": 26,
+      "titulo": "Filme 26",
+      "genero": "Romance",
+      "duracao_min": 157,
+      "ano_lancamento": 1987,
+      "plataformas": [
+        "Netflix",
+        "HBO Max",
+        "Disney+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 26, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+26"
+    },
+    {
+      "id": 27,
+      "titulo": "Filme 27",
+      "genero": "Romance",
+      "duracao_min": 132,
+      "ano_lancamento": 2003,
+      "plataformas": [
+        "Paramount+",
+        "Disney+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 27, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+27"
+    },
+    {
+      "id": 28,
+      "titulo": "Filme 28",
+      "genero": "Drama",
+      "duracao_min": 97,
+      "ano_lancamento": 2004,
+      "plataformas": [
+        "Amazon Prime",
+        "Netflix"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 28, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+28"
+    },
+    {
+      "id": 29,
+      "titulo": "Filme 29",
+      "genero": "Terror",
+      "duracao_min": 162,
+      "ano_lancamento": 2023,
+      "plataformas": [
+        "Apple TV+",
+        "Disney+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 29, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+29"
+    },
+    {
+      "id": 30,
+      "titulo": "Filme 30",
+      "genero": "Ficção Científica",
+      "duracao_min": 139,
+      "ano_lancamento": 1985,
+      "plataformas": [
+        "Disney+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 30, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+30"
+    },
+    {
+      "id": 31,
+      "titulo": "Filme 31",
+      "genero": "Documentário",
+      "duracao_min": 106,
+      "ano_lancamento": 2014,
+      "plataformas": [
+        "Netflix",
+        "Paramount+"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 31, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+31"
+    },
+    {
+      "id": 32,
+      "titulo": "Filme 32",
+      "genero": "Ficção Científica",
+      "duracao_min": 157,
+      "ano_lancamento": 2011,
+      "plataformas": [
+        "Apple TV+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 32, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+32"
+    },
+    {
+      "id": 33,
+      "titulo": "Filme 33",
+      "genero": "Ação",
+      "duracao_min": 85,
+      "ano_lancamento": 2000,
+      "plataformas": [
+        "Netflix"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 33, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+33"
+    },
+    {
+      "id": 34,
+      "titulo": "Filme 34",
+      "genero": "Comédia",
+      "duracao_min": 179,
+      "ano_lancamento": 1992,
+      "plataformas": [
+        "HBO Max",
+        "Amazon Prime",
+        "Paramount+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 34, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+34"
+    },
+    {
+      "id": 35,
+      "titulo": "Filme 35",
+      "genero": "Comédia",
+      "duracao_min": 99,
+      "ano_lancamento": 2024,
+      "plataformas": [
+        "Disney+",
+        "HBO Max"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 35, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+35"
+    },
+    {
+      "id": 36,
+      "titulo": "Filme 36",
+      "genero": "Comédia",
+      "duracao_min": 110,
+      "ano_lancamento": 2018,
+      "plataformas": [
+        "Apple TV+",
+        "Disney+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 36, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+36"
+    },
+    {
+      "id": 37,
+      "titulo": "Filme 37",
+      "genero": "Romance",
+      "duracao_min": 87,
+      "ano_lancamento": 2023,
+      "plataformas": [
+        "Apple TV+",
+        "HBO Max",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 37, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+37"
+    },
+    {
+      "id": 38,
+      "titulo": "Filme 38",
+      "genero": "Documentário",
+      "duracao_min": 117,
+      "ano_lancamento": 2004,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 38, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+38"
+    },
+    {
+      "id": 39,
+      "titulo": "Filme 39",
+      "genero": "Drama",
+      "duracao_min": 168,
+      "ano_lancamento": 2017,
+      "plataformas": [
+        "Amazon Prime",
+        "Netflix",
+        "Disney+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 39, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+39"
+    },
+    {
+      "id": 40,
+      "titulo": "Filme 40",
+      "genero": "Documentário",
+      "duracao_min": 144,
+      "ano_lancamento": 1996,
+      "plataformas": [
+        "HBO Max",
+        "Apple TV+",
+        "Disney+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 40, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+40"
+    },
+    {
+      "id": 41,
+      "titulo": "Filme 41",
+      "genero": "Documentário",
+      "duracao_min": 111,
+      "ano_lancamento": 2021,
+      "plataformas": [
+        "Disney+",
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 41, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+41"
+    },
+    {
+      "id": 42,
+      "titulo": "Filme 42",
+      "genero": "Comédia",
+      "duracao_min": 129,
+      "ano_lancamento": 2007,
+      "plataformas": [
+        "Netflix"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 42, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+42"
+    },
+    {
+      "id": 43,
+      "titulo": "Filme 43",
+      "genero": "Ação",
+      "duracao_min": 142,
+      "ano_lancamento": 1985,
+      "plataformas": [
+        "Amazon Prime",
+        "HBO Max",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 43, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+43"
+    },
+    {
+      "id": 44,
+      "titulo": "Filme 44",
+      "genero": "Ação",
+      "duracao_min": 163,
+      "ano_lancamento": 2005,
+      "plataformas": [
+        "Apple TV+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 44, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+44"
+    },
+    {
+      "id": 45,
+      "titulo": "Filme 45",
+      "genero": "Terror",
+      "duracao_min": 101,
+      "ano_lancamento": 2019,
+      "plataformas": [
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 45, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+45"
+    },
+    {
+      "id": 46,
+      "titulo": "Filme 46",
+      "genero": "Romance",
+      "duracao_min": 122,
+      "ano_lancamento": 2022,
+      "plataformas": [
+        "HBO Max"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 46, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+46"
+    },
+    {
+      "id": 47,
+      "titulo": "Filme 47",
+      "genero": "Comédia",
+      "duracao_min": 80,
+      "ano_lancamento": 1987,
+      "plataformas": [
+        "Apple TV+",
+        "Amazon Prime",
+        "HBO Max"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 47, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+47"
+    },
+    {
+      "id": 48,
+      "titulo": "Filme 48",
+      "genero": "Ação",
+      "duracao_min": 144,
+      "ano_lancamento": 1986,
+      "plataformas": [
+        "Netflix",
+        "Amazon Prime",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 48, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+48"
+    },
+    {
+      "id": 49,
+      "titulo": "Filme 49",
+      "genero": "Ação",
+      "duracao_min": 106,
+      "ano_lancamento": 2017,
+      "plataformas": [
+        "Apple TV+",
+        "Disney+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 49, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+49"
+    },
+    {
+      "id": 50,
+      "titulo": "Filme 50",
+      "genero": "Terror",
+      "duracao_min": 118,
+      "ano_lancamento": 2012,
+      "plataformas": [
+        "Amazon Prime",
+        "Apple TV+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 50, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+50"
+    },
+    {
+      "id": 51,
+      "titulo": "Filme 51",
+      "genero": "Drama",
+      "duracao_min": 152,
+      "ano_lancamento": 1984,
+      "plataformas": [
+        "Disney+",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 51, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+51"
+    },
+    {
+      "id": 52,
+      "titulo": "Filme 52",
+      "genero": "Comédia",
+      "duracao_min": 152,
+      "ano_lancamento": 1992,
+      "plataformas": [
+        "Disney+",
+        "Paramount+"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 52, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+52"
+    },
+    {
+      "id": 53,
+      "titulo": "Filme 53",
+      "genero": "Terror",
+      "duracao_min": 116,
+      "ano_lancamento": 2022,
+      "plataformas": [
+        "Amazon Prime",
+        "Apple TV+",
+        "Paramount+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 53, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+53"
+    },
+    {
+      "id": 54,
+      "titulo": "Filme 54",
+      "genero": "Ficção Científica",
+      "duracao_min": 124,
+      "ano_lancamento": 1984,
+      "plataformas": [
+        "Netflix"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 54, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+54"
+    },
+    {
+      "id": 55,
+      "titulo": "Filme 55",
+      "genero": "Drama",
+      "duracao_min": 99,
+      "ano_lancamento": 1999,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 55, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+55"
+    },
+    {
+      "id": 56,
+      "titulo": "Filme 56",
+      "genero": "Comédia",
+      "duracao_min": 93,
+      "ano_lancamento": 1996,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 56, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+56"
+    },
+    {
+      "id": 57,
+      "titulo": "Filme 57",
+      "genero": "Comédia",
+      "duracao_min": 177,
+      "ano_lancamento": 2017,
+      "plataformas": [
+        "Disney+",
+        "Netflix",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 57, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+57"
+    },
+    {
+      "id": 58,
+      "titulo": "Filme 58",
+      "genero": "Documentário",
+      "duracao_min": 151,
+      "ano_lancamento": 1992,
+      "plataformas": [
+        "HBO Max",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 58, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+58"
+    },
+    {
+      "id": 59,
+      "titulo": "Filme 59",
+      "genero": "Drama",
+      "duracao_min": 162,
+      "ano_lancamento": 2019,
+      "plataformas": [
+        "Paramount+",
+        "Amazon Prime",
+        "Apple TV+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 59, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+59"
+    },
+    {
+      "id": 60,
+      "titulo": "Filme 60",
+      "genero": "Drama",
+      "duracao_min": 94,
+      "ano_lancamento": 2004,
+      "plataformas": [
+        "Apple TV+",
+        "Netflix",
+        "Disney+"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 60, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+60"
+    },
+    {
+      "id": 61,
+      "titulo": "Filme 61",
+      "genero": "Documentário",
+      "duracao_min": 109,
+      "ano_lancamento": 2016,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 61, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+61"
+    },
+    {
+      "id": 62,
+      "titulo": "Filme 62",
+      "genero": "Terror",
+      "duracao_min": 179,
+      "ano_lancamento": 1988,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 62, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+62"
+    },
+    {
+      "id": 63,
+      "titulo": "Filme 63",
+      "genero": "Documentário",
+      "duracao_min": 105,
+      "ano_lancamento": 2019,
+      "plataformas": [
+        "HBO Max",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 63, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+63"
+    },
+    {
+      "id": 64,
+      "titulo": "Filme 64",
+      "genero": "Drama",
+      "duracao_min": 146,
+      "ano_lancamento": 2014,
+      "plataformas": [
+        "Amazon Prime",
+        "Paramount+",
+        "Netflix"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 64, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+64"
+    },
+    {
+      "id": 65,
+      "titulo": "Filme 65",
+      "genero": "Documentário",
+      "duracao_min": 178,
+      "ano_lancamento": 1992,
+      "plataformas": [
+        "Apple TV+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 65, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+65"
+    },
+    {
+      "id": 66,
+      "titulo": "Filme 66",
+      "genero": "Drama",
+      "duracao_min": 133,
+      "ano_lancamento": 1993,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 66, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+66"
+    },
+    {
+      "id": 67,
+      "titulo": "Filme 67",
+      "genero": "Drama",
+      "duracao_min": 176,
+      "ano_lancamento": 1984,
+      "plataformas": [
+        "Apple TV+",
+        "Disney+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 67, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+67"
+    },
+    {
+      "id": 68,
+      "titulo": "Filme 68",
+      "genero": "Romance",
+      "duracao_min": 174,
+      "ano_lancamento": 2001,
+      "plataformas": [
+        "Amazon Prime",
+        "Apple TV+",
+        "Netflix"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 68, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+68"
+    },
+    {
+      "id": 69,
+      "titulo": "Filme 69",
+      "genero": "Romance",
+      "duracao_min": 139,
+      "ano_lancamento": 2024,
+      "plataformas": [
+        "Apple TV+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 69, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+69"
+    },
+    {
+      "id": 70,
+      "titulo": "Filme 70",
+      "genero": "Documentário",
+      "duracao_min": 150,
+      "ano_lancamento": 2005,
+      "plataformas": [
+        "Paramount+",
+        "HBO Max"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 70, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+70"
+    },
+    {
+      "id": 71,
+      "titulo": "Filme 71",
+      "genero": "Documentário",
+      "duracao_min": 143,
+      "ano_lancamento": 1981,
+      "plataformas": [
+        "Amazon Prime",
+        "Netflix",
+        "Disney+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 71, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+71"
+    },
+    {
+      "id": 72,
+      "titulo": "Filme 72",
+      "genero": "Ficção Científica",
+      "duracao_min": 91,
+      "ano_lancamento": 2007,
+      "plataformas": [
+        "Apple TV+",
+        "Paramount+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 72, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+72"
+    },
+    {
+      "id": 73,
+      "titulo": "Filme 73",
+      "genero": "Romance",
+      "duracao_min": 117,
+      "ano_lancamento": 1998,
+      "plataformas": [
+        "Disney+",
+        "Paramount+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 73, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+73"
+    },
+    {
+      "id": 74,
+      "titulo": "Filme 74",
+      "genero": "Comédia",
+      "duracao_min": 81,
+      "ano_lancamento": 1989,
+      "plataformas": [
+        "Paramount+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 74, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+74"
+    },
+    {
+      "id": 75,
+      "titulo": "Filme 75",
+      "genero": "Drama",
+      "duracao_min": 106,
+      "ano_lancamento": 2021,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 75, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+75"
+    },
+    {
+      "id": 76,
+      "titulo": "Filme 76",
+      "genero": "Ficção Científica",
+      "duracao_min": 87,
+      "ano_lancamento": 2004,
+      "plataformas": [
+        "HBO Max",
+        "Netflix",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 76, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+76"
+    },
+    {
+      "id": 77,
+      "titulo": "Filme 77",
+      "genero": "Ficção Científica",
+      "duracao_min": 93,
+      "ano_lancamento": 1993,
+      "plataformas": [
+        "Amazon Prime",
+        "Disney+",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 77, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+77"
+    },
+    {
+      "id": 78,
+      "titulo": "Filme 78",
+      "genero": "Romance",
+      "duracao_min": 177,
+      "ano_lancamento": 2010,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 78, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+78"
+    },
+    {
+      "id": 79,
+      "titulo": "Filme 79",
+      "genero": "Documentário",
+      "duracao_min": 167,
+      "ano_lancamento": 1982,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 79, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+79"
+    },
+    {
+      "id": 80,
+      "titulo": "Filme 80",
+      "genero": "Romance",
+      "duracao_min": 175,
+      "ano_lancamento": 1991,
+      "plataformas": [
+        "Netflix"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 80, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+80"
+    },
+    {
+      "id": 81,
+      "titulo": "Filme 81",
+      "genero": "Romance",
+      "duracao_min": 100,
+      "ano_lancamento": 1988,
+      "plataformas": [
+        "Paramount+",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 81, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+81"
+    },
+    {
+      "id": 82,
+      "titulo": "Filme 82",
+      "genero": "Drama",
+      "duracao_min": 143,
+      "ano_lancamento": 1999,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 82, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+82"
+    },
+    {
+      "id": 83,
+      "titulo": "Filme 83",
+      "genero": "Documentário",
+      "duracao_min": 105,
+      "ano_lancamento": 2001,
+      "plataformas": [
+        "Amazon Prime",
+        "Apple TV+",
+        "Paramount+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 83, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+83"
+    },
+    {
+      "id": 84,
+      "titulo": "Filme 84",
+      "genero": "Ação",
+      "duracao_min": 92,
+      "ano_lancamento": 1999,
+      "plataformas": [
+        "Paramount+",
+        "Netflix"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 84, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+84"
+    },
+    {
+      "id": 85,
+      "titulo": "Filme 85",
+      "genero": "Documentário",
+      "duracao_min": 135,
+      "ano_lancamento": 2017,
+      "plataformas": [
+        "Netflix",
+        "Apple TV+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 85, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+85"
+    },
+    {
+      "id": 86,
+      "titulo": "Filme 86",
+      "genero": "Documentário",
+      "duracao_min": 164,
+      "ano_lancamento": 2012,
+      "plataformas": [
+        "Disney+",
+        "Apple TV+",
+        "Netflix"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 86, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+86"
+    },
+    {
+      "id": 87,
+      "titulo": "Filme 87",
+      "genero": "Terror",
+      "duracao_min": 93,
+      "ano_lancamento": 2002,
+      "plataformas": [
+        "HBO Max",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 87, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+87"
+    },
+    {
+      "id": 88,
+      "titulo": "Filme 88",
+      "genero": "Comédia",
+      "duracao_min": 145,
+      "ano_lancamento": 2000,
+      "plataformas": [
+        "Disney+",
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 88, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+88"
+    },
+    {
+      "id": 89,
+      "titulo": "Filme 89",
+      "genero": "Documentário",
+      "duracao_min": 92,
+      "ano_lancamento": 2023,
+      "plataformas": [
+        "HBO Max"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 89, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+89"
+    },
+    {
+      "id": 90,
+      "titulo": "Filme 90",
+      "genero": "Romance",
+      "duracao_min": 118,
+      "ano_lancamento": 2016,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 90, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+90"
+    },
+    {
+      "id": 91,
+      "titulo": "Filme 91",
+      "genero": "Ficção Científica",
+      "duracao_min": 101,
+      "ano_lancamento": 2011,
+      "plataformas": [
+        "Apple TV+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 91, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+91"
+    },
+    {
+      "id": 92,
+      "titulo": "Filme 92",
+      "genero": "Ação",
+      "duracao_min": 146,
+      "ano_lancamento": 1985,
+      "plataformas": [
+        "Netflix",
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 92, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+92"
+    },
+    {
+      "id": 93,
+      "titulo": "Filme 93",
+      "genero": "Drama",
+      "duracao_min": 154,
+      "ano_lancamento": 2008,
+      "plataformas": [
+        "HBO Max",
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 93, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+93"
+    },
+    {
+      "id": 94,
+      "titulo": "Filme 94",
+      "genero": "Comédia",
+      "duracao_min": 102,
+      "ano_lancamento": 2020,
+      "plataformas": [
+        "Netflix",
+        "Disney+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 94, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+94"
+    },
+    {
+      "id": 95,
+      "titulo": "Filme 95",
+      "genero": "Ficção Científica",
+      "duracao_min": 169,
+      "ano_lancamento": 1999,
+      "plataformas": [
+        "Amazon Prime",
+        "Disney+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 95, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+95"
+    },
+    {
+      "id": 96,
+      "titulo": "Filme 96",
+      "genero": "Romance",
+      "duracao_min": 85,
+      "ano_lancamento": 2006,
+      "plataformas": [
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 96, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+96"
+    },
+    {
+      "id": 97,
+      "titulo": "Filme 97",
+      "genero": "Terror",
+      "duracao_min": 84,
+      "ano_lancamento": 1985,
+      "plataformas": [
+        "Netflix",
+        "HBO Max"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 97, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+97"
+    },
+    {
+      "id": 98,
+      "titulo": "Filme 98",
+      "genero": "Documentário",
+      "duracao_min": 155,
+      "ano_lancamento": 1996,
+      "plataformas": [
+        "Apple TV+",
+        "Disney+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 98, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+98"
+    },
+    {
+      "id": 99,
+      "titulo": "Filme 99",
+      "genero": "Drama",
+      "duracao_min": 161,
+      "ano_lancamento": 1987,
+      "plataformas": [
+        "Amazon Prime",
+        "Apple TV+",
+        "Disney+"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 99, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+99"
+    },
+    {
+      "id": 100,
+      "titulo": "Filme 100",
+      "genero": "Documentário",
+      "duracao_min": 148,
+      "ano_lancamento": 2001,
+      "plataformas": [
+        "Amazon Prime",
+        "HBO Max"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 100, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+100"
+    },
+    {
+      "id": 101,
+      "titulo": "Filme 101",
+      "genero": "Ação",
+      "duracao_min": 160,
+      "ano_lancamento": 2001,
+      "plataformas": [
+        "Amazon Prime",
+        "Paramount+",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 101, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+101"
+    },
+    {
+      "id": 102,
+      "titulo": "Filme 102",
+      "genero": "Comédia",
+      "duracao_min": 147,
+      "ano_lancamento": 2023,
+      "plataformas": [
+        "HBO Max",
+        "Netflix"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 102, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+102"
+    },
+    {
+      "id": 103,
+      "titulo": "Filme 103",
+      "genero": "Comédia",
+      "duracao_min": 143,
+      "ano_lancamento": 1981,
+      "plataformas": [
+        "Disney+",
+        "Paramount+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 103, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+103"
+    },
+    {
+      "id": 104,
+      "titulo": "Filme 104",
+      "genero": "Drama",
+      "duracao_min": 128,
+      "ano_lancamento": 2009,
+      "plataformas": [
+        "HBO Max"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 104, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+104"
+    },
+    {
+      "id": 105,
+      "titulo": "Filme 105",
+      "genero": "Terror",
+      "duracao_min": 121,
+      "ano_lancamento": 2013,
+      "plataformas": [
+        "HBO Max",
+        "Disney+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 105, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+105"
+    },
+    {
+      "id": 106,
+      "titulo": "Filme 106",
+      "genero": "Romance",
+      "duracao_min": 124,
+      "ano_lancamento": 1981,
+      "plataformas": [
+        "Disney+",
+        "Apple TV+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 106, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+106"
+    },
+    {
+      "id": 107,
+      "titulo": "Filme 107",
+      "genero": "Documentário",
+      "duracao_min": 146,
+      "ano_lancamento": 1988,
+      "plataformas": [
+        "HBO Max",
+        "Apple TV+",
+        "Netflix"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 107, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+107"
+    },
+    {
+      "id": 108,
+      "titulo": "Filme 108",
+      "genero": "Documentário",
+      "duracao_min": 129,
+      "ano_lancamento": 2006,
+      "plataformas": [
+        "Disney+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 108, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+108"
+    },
+    {
+      "id": 109,
+      "titulo": "Filme 109",
+      "genero": "Comédia",
+      "duracao_min": 164,
+      "ano_lancamento": 2023,
+      "plataformas": [
+        "Netflix",
+        "Paramount+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 109, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+109"
+    },
+    {
+      "id": 110,
+      "titulo": "Filme 110",
+      "genero": "Ação",
+      "duracao_min": 88,
+      "ano_lancamento": 1998,
+      "plataformas": [
+        "Paramount+",
+        "HBO Max",
+        "Apple TV+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 110, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+110"
+    },
+    {
+      "id": 111,
+      "titulo": "Filme 111",
+      "genero": "Documentário",
+      "duracao_min": 172,
+      "ano_lancamento": 2017,
+      "plataformas": [
+        "Disney+"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 111, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+111"
+    },
+    {
+      "id": 112,
+      "titulo": "Filme 112",
+      "genero": "Comédia",
+      "duracao_min": 154,
+      "ano_lancamento": 2014,
+      "plataformas": [
+        "Paramount+",
+        "Amazon Prime",
+        "Netflix"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 112, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+112"
+    },
+    {
+      "id": 113,
+      "titulo": "Filme 113",
+      "genero": "Comédia",
+      "duracao_min": 105,
+      "ano_lancamento": 1994,
+      "plataformas": [
+        "Paramount+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 113, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+113"
+    },
+    {
+      "id": 114,
+      "titulo": "Filme 114",
+      "genero": "Ficção Científica",
+      "duracao_min": 158,
+      "ano_lancamento": 2017,
+      "plataformas": [
+        "Apple TV+",
+        "Disney+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 114, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+114"
+    },
+    {
+      "id": 115,
+      "titulo": "Filme 115",
+      "genero": "Documentário",
+      "duracao_min": 85,
+      "ano_lancamento": 1993,
+      "plataformas": [
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 115, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+115"
+    },
+    {
+      "id": 116,
+      "titulo": "Filme 116",
+      "genero": "Terror",
+      "duracao_min": 138,
+      "ano_lancamento": 2014,
+      "plataformas": [
+        "Apple TV+",
+        "Disney+",
+        "Paramount+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 116, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+116"
+    },
+    {
+      "id": 117,
+      "titulo": "Filme 117",
+      "genero": "Comédia",
+      "duracao_min": 177,
+      "ano_lancamento": 2011,
+      "plataformas": [
+        "Amazon Prime",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 117, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+117"
+    },
+    {
+      "id": 118,
+      "titulo": "Filme 118",
+      "genero": "Ficção Científica",
+      "duracao_min": 109,
+      "ano_lancamento": 2000,
+      "plataformas": [
+        "Paramount+",
+        "Netflix"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 118, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+118"
+    },
+    {
+      "id": 119,
+      "titulo": "Filme 119",
+      "genero": "Romance",
+      "duracao_min": 90,
+      "ano_lancamento": 2013,
+      "plataformas": [
+        "HBO Max",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 119, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+119"
+    },
+    {
+      "id": 120,
+      "titulo": "Filme 120",
+      "genero": "Romance",
+      "duracao_min": 104,
+      "ano_lancamento": 2009,
+      "plataformas": [
+        "Apple TV+"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 120, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+120"
+    },
+    {
+      "id": 121,
+      "titulo": "Filme 121",
+      "genero": "Comédia",
+      "duracao_min": 96,
+      "ano_lancamento": 2012,
+      "plataformas": [
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 121, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+121"
+    },
+    {
+      "id": 122,
+      "titulo": "Filme 122",
+      "genero": "Romance",
+      "duracao_min": 115,
+      "ano_lancamento": 2020,
+      "plataformas": [
+        "Apple TV+"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 122, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+122"
+    },
+    {
+      "id": 123,
+      "titulo": "Filme 123",
+      "genero": "Documentário",
+      "duracao_min": 118,
+      "ano_lancamento": 1994,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 123, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+123"
+    },
+    {
+      "id": 124,
+      "titulo": "Filme 124",
+      "genero": "Romance",
+      "duracao_min": 143,
+      "ano_lancamento": 2020,
+      "plataformas": [
+        "Amazon Prime",
+        "HBO Max"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 124, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+124"
+    },
+    {
+      "id": 125,
+      "titulo": "Filme 125",
+      "genero": "Ação",
+      "duracao_min": 109,
+      "ano_lancamento": 1985,
+      "plataformas": [
+        "Disney+",
+        "Apple TV+",
+        "Netflix"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 125, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+125"
+    },
+    {
+      "id": 126,
+      "titulo": "Filme 126",
+      "genero": "Romance",
+      "duracao_min": 82,
+      "ano_lancamento": 2000,
+      "plataformas": [
+        "Netflix",
+        "Disney+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 126, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+126"
+    },
+    {
+      "id": 127,
+      "titulo": "Filme 127",
+      "genero": "Ação",
+      "duracao_min": 96,
+      "ano_lancamento": 2013,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 127, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+127"
+    },
+    {
+      "id": 128,
+      "titulo": "Filme 128",
+      "genero": "Ficção Científica",
+      "duracao_min": 123,
+      "ano_lancamento": 2024,
+      "plataformas": [
+        "Disney+",
+        "Netflix"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 128, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+128"
+    },
+    {
+      "id": 129,
+      "titulo": "Filme 129",
+      "genero": "Comédia",
+      "duracao_min": 155,
+      "ano_lancamento": 2019,
+      "plataformas": [
+        "Apple TV+",
+        "Netflix",
+        "Paramount+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 129, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+129"
+    },
+    {
+      "id": 130,
+      "titulo": "Filme 130",
+      "genero": "Documentário",
+      "duracao_min": 176,
+      "ano_lancamento": 2022,
+      "plataformas": [
+        "Disney+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 130, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+130"
+    },
+    {
+      "id": 131,
+      "titulo": "Filme 131",
+      "genero": "Ficção Científica",
+      "duracao_min": 165,
+      "ano_lancamento": 2009,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 131, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+131"
+    },
+    {
+      "id": 132,
+      "titulo": "Filme 132",
+      "genero": "Romance",
+      "duracao_min": 139,
+      "ano_lancamento": 2019,
+      "plataformas": [
+        "Disney+"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 132, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+132"
+    },
+    {
+      "id": 133,
+      "titulo": "Filme 133",
+      "genero": "Ficção Científica",
+      "duracao_min": 163,
+      "ano_lancamento": 2008,
+      "plataformas": [
+        "Apple TV+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 133, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+133"
+    },
+    {
+      "id": 134,
+      "titulo": "Filme 134",
+      "genero": "Documentário",
+      "duracao_min": 127,
+      "ano_lancamento": 1988,
+      "plataformas": [
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 134, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+134"
+    },
+    {
+      "id": 135,
+      "titulo": "Filme 135",
+      "genero": "Ação",
+      "duracao_min": 111,
+      "ano_lancamento": 2007,
+      "plataformas": [
+        "HBO Max",
+        "Amazon Prime",
+        "Netflix"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 135, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+135"
+    },
+    {
+      "id": 136,
+      "titulo": "Filme 136",
+      "genero": "Ação",
+      "duracao_min": 144,
+      "ano_lancamento": 1998,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 136, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+136"
+    },
+    {
+      "id": 137,
+      "titulo": "Filme 137",
+      "genero": "Documentário",
+      "duracao_min": 137,
+      "ano_lancamento": 1987,
+      "plataformas": [
+        "Amazon Prime",
+        "Paramount+",
+        "Disney+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 137, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+137"
+    },
+    {
+      "id": 138,
+      "titulo": "Filme 138",
+      "genero": "Comédia",
+      "duracao_min": 87,
+      "ano_lancamento": 2006,
+      "plataformas": [
+        "Paramount+",
+        "Netflix"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 138, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+138"
+    },
+    {
+      "id": 139,
+      "titulo": "Filme 139",
+      "genero": "Drama",
+      "duracao_min": 131,
+      "ano_lancamento": 2015,
+      "plataformas": [
+        "HBO Max",
+        "Netflix",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 139, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+139"
+    },
+    {
+      "id": 140,
+      "titulo": "Filme 140",
+      "genero": "Ficção Científica",
+      "duracao_min": 104,
+      "ano_lancamento": 1999,
+      "plataformas": [
+        "Paramount+",
+        "Apple TV+",
+        "Netflix"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 140, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+140"
+    },
+    {
+      "id": 141,
+      "titulo": "Filme 141",
+      "genero": "Drama",
+      "duracao_min": 134,
+      "ano_lancamento": 2015,
+      "plataformas": [
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 141, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+141"
+    },
+    {
+      "id": 142,
+      "titulo": "Filme 142",
+      "genero": "Comédia",
+      "duracao_min": 180,
+      "ano_lancamento": 1996,
+      "plataformas": [
+        "Paramount+",
+        "Netflix",
+        "Disney+"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 142, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+142"
+    },
+    {
+      "id": 143,
+      "titulo": "Filme 143",
+      "genero": "Documentário",
+      "duracao_min": 112,
+      "ano_lancamento": 2013,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 143, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+143"
+    },
+    {
+      "id": 144,
+      "titulo": "Filme 144",
+      "genero": "Terror",
+      "duracao_min": 164,
+      "ano_lancamento": 1984,
+      "plataformas": [
+        "Disney+",
+        "Apple TV+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 144, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+144"
+    },
+    {
+      "id": 145,
+      "titulo": "Filme 145",
+      "genero": "Ação",
+      "duracao_min": 129,
+      "ano_lancamento": 2000,
+      "plataformas": [
+        "HBO Max",
+        "Disney+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 145, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+145"
+    },
+    {
+      "id": 146,
+      "titulo": "Filme 146",
+      "genero": "Terror",
+      "duracao_min": 133,
+      "ano_lancamento": 1987,
+      "plataformas": [
+        "Netflix",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 146, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+146"
+    },
+    {
+      "id": 147,
+      "titulo": "Filme 147",
+      "genero": "Ação",
+      "duracao_min": 175,
+      "ano_lancamento": 2011,
+      "plataformas": [
+        "Apple TV+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 147, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+147"
+    },
+    {
+      "id": 148,
+      "titulo": "Filme 148",
+      "genero": "Ação",
+      "duracao_min": 81,
+      "ano_lancamento": 1996,
+      "plataformas": [
+        "Disney+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 148, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+148"
+    },
+    {
+      "id": 149,
+      "titulo": "Filme 149",
+      "genero": "Documentário",
+      "duracao_min": 131,
+      "ano_lancamento": 1984,
+      "plataformas": [
+        "Netflix",
+        "HBO Max",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 149, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+149"
+    },
+    {
+      "id": 150,
+      "titulo": "Filme 150",
+      "genero": "Terror",
+      "duracao_min": 171,
+      "ano_lancamento": 2008,
+      "plataformas": [
+        "Netflix"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 150, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+150"
+    },
+    {
+      "id": 151,
+      "titulo": "Filme 151",
+      "genero": "Comédia",
+      "duracao_min": 142,
+      "ano_lancamento": 1986,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 151, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+151"
+    },
+    {
+      "id": 152,
+      "titulo": "Filme 152",
+      "genero": "Documentário",
+      "duracao_min": 80,
+      "ano_lancamento": 1992,
+      "plataformas": [
+        "HBO Max",
+        "Netflix",
+        "Apple TV+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 152, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+152"
+    },
+    {
+      "id": 153,
+      "titulo": "Filme 153",
+      "genero": "Documentário",
+      "duracao_min": 121,
+      "ano_lancamento": 1995,
+      "plataformas": [
+        "Netflix"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 153, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+153"
+    },
+    {
+      "id": 154,
+      "titulo": "Filme 154",
+      "genero": "Ação",
+      "duracao_min": 86,
+      "ano_lancamento": 2011,
+      "plataformas": [
+        "Apple TV+"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 154, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+154"
+    },
+    {
+      "id": 155,
+      "titulo": "Filme 155",
+      "genero": "Drama",
+      "duracao_min": 81,
+      "ano_lancamento": 1995,
+      "plataformas": [
+        "Paramount+",
+        "Disney+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 155, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+155"
+    },
+    {
+      "id": 156,
+      "titulo": "Filme 156",
+      "genero": "Terror",
+      "duracao_min": 102,
+      "ano_lancamento": 1987,
+      "plataformas": [
+        "Apple TV+",
+        "Netflix",
+        "Disney+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 156, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+156"
+    },
+    {
+      "id": 157,
+      "titulo": "Filme 157",
+      "genero": "Romance",
+      "duracao_min": 118,
+      "ano_lancamento": 2025,
+      "plataformas": [
+        "Disney+",
+        "Amazon Prime",
+        "Paramount+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 157, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+157"
+    },
+    {
+      "id": 158,
+      "titulo": "Filme 158",
+      "genero": "Documentário",
+      "duracao_min": 135,
+      "ano_lancamento": 2009,
+      "plataformas": [
+        "Netflix",
+        "Disney+"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 158, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+158"
+    },
+    {
+      "id": 159,
+      "titulo": "Filme 159",
+      "genero": "Ficção Científica",
+      "duracao_min": 118,
+      "ano_lancamento": 1993,
+      "plataformas": [
+        "HBO Max",
+        "Apple TV+",
+        "Netflix"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 159, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+159"
+    },
+    {
+      "id": 160,
+      "titulo": "Filme 160",
+      "genero": "Ação",
+      "duracao_min": 157,
+      "ano_lancamento": 1980,
+      "plataformas": [
+        "Disney+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 160, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+160"
+    },
+    {
+      "id": 161,
+      "titulo": "Filme 161",
+      "genero": "Romance",
+      "duracao_min": 117,
+      "ano_lancamento": 1981,
+      "plataformas": [
+        "HBO Max",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 161, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+161"
+    },
+    {
+      "id": 162,
+      "titulo": "Filme 162",
+      "genero": "Ação",
+      "duracao_min": 101,
+      "ano_lancamento": 2021,
+      "plataformas": [
+        "HBO Max"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 162, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+162"
+    },
+    {
+      "id": 163,
+      "titulo": "Filme 163",
+      "genero": "Ficção Científica",
+      "duracao_min": 103,
+      "ano_lancamento": 1996,
+      "plataformas": [
+        "Apple TV+",
+        "Netflix"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 163, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+163"
+    },
+    {
+      "id": 164,
+      "titulo": "Filme 164",
+      "genero": "Comédia",
+      "duracao_min": 106,
+      "ano_lancamento": 1997,
+      "plataformas": [
+        "Amazon Prime",
+        "HBO Max"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 164, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+164"
+    },
+    {
+      "id": 165,
+      "titulo": "Filme 165",
+      "genero": "Comédia",
+      "duracao_min": 134,
+      "ano_lancamento": 2006,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 165, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+165"
+    },
+    {
+      "id": 166,
+      "titulo": "Filme 166",
+      "genero": "Comédia",
+      "duracao_min": 103,
+      "ano_lancamento": 1996,
+      "plataformas": [
+        "Apple TV+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 166, um emocionante exemplo do gênero Comédia.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+166"
+    },
+    {
+      "id": 167,
+      "titulo": "Filme 167",
+      "genero": "Drama",
+      "duracao_min": 103,
+      "ano_lancamento": 1999,
+      "plataformas": [
+        "Netflix"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 167, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+167"
+    },
+    {
+      "id": 168,
+      "titulo": "Filme 168",
+      "genero": "Drama",
+      "duracao_min": 134,
+      "ano_lancamento": 2023,
+      "plataformas": [
+        "Paramount+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 168, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+168"
+    },
+    {
+      "id": 169,
+      "titulo": "Filme 169",
+      "genero": "Documentário",
+      "duracao_min": 148,
+      "ano_lancamento": 2010,
+      "plataformas": [
+        "Paramount+",
+        "Netflix"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 169, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+169"
+    },
+    {
+      "id": 170,
+      "titulo": "Filme 170",
+      "genero": "Ação",
+      "duracao_min": 166,
+      "ano_lancamento": 1981,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 170, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+170"
+    },
+    {
+      "id": 171,
+      "titulo": "Filme 171",
+      "genero": "Ação",
+      "duracao_min": 90,
+      "ano_lancamento": 2013,
+      "plataformas": [
+        "Apple TV+",
+        "Netflix"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 171, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+171"
+    },
+    {
+      "id": 172,
+      "titulo": "Filme 172",
+      "genero": "Ficção Científica",
+      "duracao_min": 139,
+      "ano_lancamento": 2002,
+      "plataformas": [
+        "HBO Max"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 172, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+172"
+    },
+    {
+      "id": 173,
+      "titulo": "Filme 173",
+      "genero": "Documentário",
+      "duracao_min": 164,
+      "ano_lancamento": 1991,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 173, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+173"
+    },
+    {
+      "id": 174,
+      "titulo": "Filme 174",
+      "genero": "Terror",
+      "duracao_min": 175,
+      "ano_lancamento": 2005,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 174, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+174"
+    },
+    {
+      "id": 175,
+      "titulo": "Filme 175",
+      "genero": "Terror",
+      "duracao_min": 84,
+      "ano_lancamento": 2022,
+      "plataformas": [
+        "Disney+",
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 175, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+175"
+    },
+    {
+      "id": 176,
+      "titulo": "Filme 176",
+      "genero": "Terror",
+      "duracao_min": 166,
+      "ano_lancamento": 2015,
+      "plataformas": [
+        "Netflix",
+        "Apple TV+",
+        "HBO Max"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 176, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+176"
+    },
+    {
+      "id": 177,
+      "titulo": "Filme 177",
+      "genero": "Drama",
+      "duracao_min": 131,
+      "ano_lancamento": 2015,
+      "plataformas": [
+        "Apple TV+"
+      ],
+      "nacionalidade": "França",
+      "sinopse": "Este é o Filme 177, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+177"
+    },
+    {
+      "id": 178,
+      "titulo": "Filme 178",
+      "genero": "Drama",
+      "duracao_min": 125,
+      "ano_lancamento": 2012,
+      "plataformas": [
+        "Apple TV+",
+        "Disney+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 178, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+178"
+    },
+    {
+      "id": 179,
+      "titulo": "Filme 179",
+      "genero": "Romance",
+      "duracao_min": 144,
+      "ano_lancamento": 1983,
+      "plataformas": [
+        "Netflix",
+        "Apple TV+",
+        "Disney+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 179, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+179"
+    },
+    {
+      "id": 180,
+      "titulo": "Filme 180",
+      "genero": "Documentário",
+      "duracao_min": 128,
+      "ano_lancamento": 1997,
+      "plataformas": [
+        "Amazon Prime",
+        "HBO Max",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 180, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+180"
+    },
+    {
+      "id": 181,
+      "titulo": "Filme 181",
+      "genero": "Ação",
+      "duracao_min": 122,
+      "ano_lancamento": 2025,
+      "plataformas": [
+        "HBO Max",
+        "Amazon Prime",
+        "Paramount+"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 181, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+181"
+    },
+    {
+      "id": 182,
+      "titulo": "Filme 182",
+      "genero": "Terror",
+      "duracao_min": 179,
+      "ano_lancamento": 1990,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 182, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+182"
+    },
+    {
+      "id": 183,
+      "titulo": "Filme 183",
+      "genero": "Ação",
+      "duracao_min": 178,
+      "ano_lancamento": 2006,
+      "plataformas": [
+        "HBO Max",
+        "Paramount+"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 183, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+183"
+    },
+    {
+      "id": 184,
+      "titulo": "Filme 184",
+      "genero": "Terror",
+      "duracao_min": 106,
+      "ano_lancamento": 2001,
+      "plataformas": [
+        "Amazon Prime",
+        "Paramount+",
+        "Disney+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 184, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+184"
+    },
+    {
+      "id": 185,
+      "titulo": "Filme 185",
+      "genero": "Romance",
+      "duracao_min": 114,
+      "ano_lancamento": 2000,
+      "plataformas": [
+        "HBO Max"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 185, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+185"
+    },
+    {
+      "id": 186,
+      "titulo": "Filme 186",
+      "genero": "Ação",
+      "duracao_min": 105,
+      "ano_lancamento": 1994,
+      "plataformas": [
+        "Amazon Prime",
+        "Apple TV+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 186, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+186"
+    },
+    {
+      "id": 187,
+      "titulo": "Filme 187",
+      "genero": "Ficção Científica",
+      "duracao_min": 101,
+      "ano_lancamento": 2019,
+      "plataformas": [
+        "HBO Max",
+        "Paramount+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 187, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "14",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+187"
+    },
+    {
+      "id": 188,
+      "titulo": "Filme 188",
+      "genero": "Terror",
+      "duracao_min": 124,
+      "ano_lancamento": 2025,
+      "plataformas": [
+        "Netflix",
+        "Disney+",
+        "Paramount+"
+      ],
+      "nacionalidade": "Coreia do Sul",
+      "sinopse": "Este é o Filme 188, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+188"
+    },
+    {
+      "id": 189,
+      "titulo": "Filme 189",
+      "genero": "Ficção Científica",
+      "duracao_min": 134,
+      "ano_lancamento": 1985,
+      "plataformas": [
+        "HBO Max"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 189, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+189"
+    },
+    {
+      "id": 190,
+      "titulo": "Filme 190",
+      "genero": "Romance",
+      "duracao_min": 122,
+      "ano_lancamento": 1998,
+      "plataformas": [
+        "HBO Max",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 190, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+190"
+    },
+    {
+      "id": 191,
+      "titulo": "Filme 191",
+      "genero": "Ação",
+      "duracao_min": 96,
+      "ano_lancamento": 2009,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 191, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+191"
+    },
+    {
+      "id": 192,
+      "titulo": "Filme 192",
+      "genero": "Documentário",
+      "duracao_min": 125,
+      "ano_lancamento": 2024,
+      "plataformas": [
+        "Disney+",
+        "Netflix"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 192, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+192"
+    },
+    {
+      "id": 193,
+      "titulo": "Filme 193",
+      "genero": "Documentário",
+      "duracao_min": 164,
+      "ano_lancamento": 1997,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "Japão",
+      "sinopse": "Este é o Filme 193, um emocionante exemplo do gênero Documentário.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+193"
+    },
+    {
+      "id": 194,
+      "titulo": "Filme 194",
+      "genero": "Ação",
+      "duracao_min": 177,
+      "ano_lancamento": 1986,
+      "plataformas": [
+        "Disney+",
+        "Apple TV+",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 194, um emocionante exemplo do gênero Ação.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+194"
+    },
+    {
+      "id": 195,
+      "titulo": "Filme 195",
+      "genero": "Terror",
+      "duracao_min": 135,
+      "ano_lancamento": 2005,
+      "plataformas": [
+        "Netflix",
+        "Disney+",
+        "HBO Max"
+      ],
+      "nacionalidade": "Reino Unido",
+      "sinopse": "Este é o Filme 195, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "10",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+195"
+    },
+    {
+      "id": 196,
+      "titulo": "Filme 196",
+      "genero": "Drama",
+      "duracao_min": 166,
+      "ano_lancamento": 1989,
+      "plataformas": [
+        "Amazon Prime",
+        "HBO Max",
+        "Apple TV+"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 196, um emocionante exemplo do gênero Drama.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+196"
+    },
+    {
+      "id": 197,
+      "titulo": "Filme 197",
+      "genero": "Romance",
+      "duracao_min": 140,
+      "ano_lancamento": 1999,
+      "plataformas": [
+        "Disney+",
+        "Amazon Prime",
+        "HBO Max"
+      ],
+      "nacionalidade": "Alemanha",
+      "sinopse": "Este é o Filme 197, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "18",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+197"
+    },
+    {
+      "id": 198,
+      "titulo": "Filme 198",
+      "genero": "Terror",
+      "duracao_min": 105,
+      "ano_lancamento": 1997,
+      "plataformas": [
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 198, um emocionante exemplo do gênero Terror.",
+      "classificacao_etaria": "16",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+198"
+    },
+    {
+      "id": 199,
+      "titulo": "Filme 199",
+      "genero": "Romance",
+      "duracao_min": 162,
+      "ano_lancamento": 1993,
+      "plataformas": [
+        "HBO Max",
+        "Netflix",
+        "Amazon Prime"
+      ],
+      "nacionalidade": "Brasil",
+      "sinopse": "Este é o Filme 199, um emocionante exemplo do gênero Romance.",
+      "classificacao_etaria": "Livre",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+199"
+    },
+    {
+      "id": 200,
+      "titulo": "Filme 200",
+      "genero": "Ficção Científica",
+      "duracao_min": 103,
+      "ano_lancamento": 2004,
+      "plataformas": [
+        "Paramount+"
+      ],
+      "nacionalidade": "EUA",
+      "sinopse": "Este é o Filme 200, um emocionante exemplo do gênero Ficção Científica.",
+      "classificacao_etaria": "12",
+      "capa": "https://dummyimage.com/300x450/000/fff.jpg&text=Filme+200"
+    }
+  ]

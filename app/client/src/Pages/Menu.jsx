@@ -8,6 +8,7 @@ const Menu = () => {
   return (
     <div>
       <h1 className="Title">Menu</h1>
+      <CarrosselGenero />
     </div>
   );
 };

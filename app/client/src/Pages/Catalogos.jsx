@@ -1,58 +1,58 @@
-import React from "react";
-import "../styles/Catalogo.css";
+import React, { useState } from "react";
+import "../Styles/Catalogo.css";
+import { Films } from "../../banco_de_dados";
 import CapaFilme from "../Components/Moldura";
-import foto_filme from "../../public/images/foto_filme.jpg";
-import Auto from "../../public/images/Autoc2.jpg";
-import dragao from "../../public/images/dragao.webp";
-import f1 from "../../public/images/f1.jpg";
-import mosferatu from "../../public/images/mosferatu.jpeg";
-import pecadores from "../../public/images/pecadores.jpeg";
-import quarteto from "../../public/images/quarteto.webp";
-import superman from "../../public/images/superman.webp";
-import comH from "../../public/images/comH.jpeg";
-import fezontem from "../../public/images/fezontem.jpeg";
-import smurfs from "../../public/images/smurfs.jpeg";
-import stich from "../../public/images/stich.jpeg";
-import vitoria from "../../public/images/vitoria.jpeg";
 
-function Catalogos() {
+export default function Catalogos() {
+  const [search, setSearch] = useState("");
+  const [selectedGenre, setSelectedGenre] = useState("");
+  const [dropdownOpen, setDropdownOpen] = useState(false);
+
+  const generos = [...new Set(Films.map((f) => f.genero))];
+
+  const filmesFiltrados = Films.filter(
+    (f) =>
+      f.titulo.toLowerCase().includes(search.toLowerCase()) &&
+      (selectedGenre === "" || f.genero === selectedGenre)
+  );
+
   return (
     <>
-      <h1 className="Cat">Catálogo de Filmes</h1>;<div></div>
-      <div class="btn-group">
-        <button
-          type="button"
-          class="btn btn-danger dropdown-toggle"
-          data-bs-toggle="dropdown"
-          aria-expanded="false"
-        >
-          Danger
-        </button>
-        <ul class="dropdown-menu">
-          <li>
-            <a class="dropdown-item" href="#">
-              Action
-            </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="#">
-              Another action
-            </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="#">
-              Something else here
-            </a>
-          </li>
-          <li>
-            <hr class="dropdown-divider" />
-          </li>
-          <li>
-            <a class="dropdown-item" href="#">
-              Separated link
-            </a>
-          </li>
-        </ul>
+      <h1 className="Cat">Catálogo de Filmes</h1>
+
+      <div className="filtro-container">
+        <div className="dropdown-custom">
+          <button
+            onClick={() => setDropdownOpen(!dropdownOpen)}
+            className="dropdown-button"
+          >
+            {selectedGenre || "Selecionar gênero"}
+          </button>
+          {dropdownOpen && (
+            <ul className="dropdown-list">
+              <li onClick={() => setSelectedGenre("")}>Todos os gêneros</li>
+              {generos.map((g, i) => (
+                <li key={i} onClick={() => setSelectedGenre(g)}>
+                  {g}
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+
+        <input
+          type="text"
+          className="search-input"
+          placeholder="Buscar por título"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+        />
+      </div>
+
+      <div className="filmes-container">
+        {filmesFiltrados.map((f) => (
+          <CapaFilme key={f.id} imagem={f.capa} id={f.id} />
+        ))}
       </div>
     </>
   );

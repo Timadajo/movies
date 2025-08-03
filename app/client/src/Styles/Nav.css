@@ -1,53 +1,60 @@
 nav {
   backdrop-filter: blur(10px);
-  padding: 1rem;
-  background-image: linear-gradient(rgb(32, 32, 32), rgba(255, 0, 0, 0));
+  padding: 1.5rem 2rem; /* aumentou o espaçamento interno da navbar */
+  background-image: linear-gradient(rgb(39, 0, 71), rgba(255, 0, 0, 0));
   display: flex;
   justify-content: space-between;
   align-items: center;
+  font-size: 1.1rem; /* aumenta a fonte dos elementos da navbar */
 }
 
 .nav-LeftButton {
   font-weight: normal;
-  color: rgb(255, 255, 255);
+  color: rgb(179, 112, 255);
   text-decoration: none;
   opacity: 0.8;
   transition: 0.5s;
+  font-size: 1.1rem;
 }
 
 .dropdown {
-  font-weight: onrmal;
-  color: rgb(255, 255, 255);
+  font-weight: normal;
+  border: rgb(179, 112, 255);
+  color: rgb(0, 0, 0);
   position: relative;
   display: inline-block;
   opacity: 0.8;
   pointer-events: auto;
   transition: 0.5s;
+  font-size: 1.1rem;
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
   right: 0;
-  background-color: #383838;
-  min-width: 160px;
+  background-color: #000000;
+  border: 0.1px solid rgb(179, 112, 255);
+  box-shadow: 0 0 0 0 0.01px rgb(179, 112, 255);
+  min-width: 180px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
-  border-radius: 15px;
+  border-radius: 5px;
   padding: 0;
   top: 100%;
 }
 
 .dropdown-content a {
-  color: rgb(255, 255, 255);
+  color: rgb(179, 112, 255);
   padding: 12px 16px;
   text-decoration: none;
   display: block;
-  border-radius: 15px;
+  border-radius: 5px;
+  font-size: 1.05rem;
 }
 
 .dropdown-content a:hover {
-  background-color: #616161;
+  background-color: rgb(53, 0, 114);
 }
 
 .dropdown:hover .dropdown-content {
@@ -60,6 +67,7 @@ nav {
   color: rgb(255, 255, 255);
   opacity: 0.8;
   transition: 0.5s;
+  font-size: 1.1rem;
 }
 
 .nav-LeftButton:hover,
@@ -70,7 +78,7 @@ nav {
 .nav-linkL.active,
 .nav-linkR.active {
   font-weight: bold;
-  color: rgb(255, 255, 255);
+  color: rgb(179, 112, 255);
   text-decoration: none;
   opacity: 0.8;
   transition: 0.5s;
@@ -83,7 +91,7 @@ nav {
 }
 
 .engrenagem {
-  height: 30px;
+  height: 34px; /* aumentou o tamanho do ícone */
 }
 
 .cursor {
